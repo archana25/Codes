@@ -19,9 +19,8 @@ int reverse_string(char *string)
 int main(void)
 {
 	char *string = "ABCDEFGH";
-	printf("%s\n",string);
 	reverse_string(string);
-	
+ 	return 0;	
 
 
 }
