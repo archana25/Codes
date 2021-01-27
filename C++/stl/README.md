@@ -11,3 +11,5 @@ binary_search:
 sort:
 	sort(vector_var.begin(),vector_element.end())
 
+map:
+        
